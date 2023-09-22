@@ -27,7 +27,7 @@ I would appreciate the opportunity to be a part of your team.
 5) recently, I have been working on the development of an ERP System, and I learned new technologies  
 related to accounting and software delepment planning.
 
-6) Last year, I was requested the development of a custom system from scratch that would let
+6) Last year, I was requested the development of a custom system that would let
 clients make orders from the web, and send notifications to the owner to approve the order.
 I efficently analysed the processes and requirements, and was able to deliver a 
 quality product while accomplishing all deadlines.
