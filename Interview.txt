@@ -10,6 +10,13 @@
 10) What are your salary requirements?
 
 1) 
+//Agus
+i am currently in my third year  of studying System analyst. I have a big passion for 
+problem-solving and during my time  as a student, i have arned  experience in  many 
+programming  languages and have worked on projects.
+
+
+//Mati
 I have just graduated as a System Analist. I know my way around a team and  
 had multiple opportunities to put my knowledge into practice as a programmer, system developer
 and data analyst. I am passionate, hard-working, and extremely responsible.  
@@ -21,13 +28,30 @@ university.
 3) I have a good impression of your company because your proyects and contributions are well-known 
 in the industry.
 
-4) Because I admire the company’s passion for creating super intuitive and attractive software, and 
+
+
+4) 
+//agus
+Because I like the company's passion for creating attractive software, and 
+I would like to have the opportunity to join your team.
+
+//Mati
+Because I admire the company’s passion for creating super intuitive and attractive software, and 
 I would appreciate the opportunity to be a part of your team.
 
 5) recently, I have been working on the development of an ERP System, and I learned new technologies  
 related to accounting and software delepment planning.
 
-6) Last year, I was requested the development of a custom system that would let
+6) 
+
+//agus
+Last Year, i was requested the development of a custom system that would let 
+clients make orders form the mobile application, and send notification to 
+the owner to approve them, Analysed the processes and requirements, 
+and was able to deliver a product.
+
+//mati
+ Last year, I was requested the development of a custom system that would let
 clients make orders from the web, and send notifications to the owner to approve them.
 I efficently analysed the processes and requirements, and was able to deliver a 
 quality product while accomplishing all deadlines.
@@ -39,7 +63,12 @@ let them scale to the level of influencing our tasks.
 8) I can bring dedication and a drive to succeed in this company, and strive to do 
  my absolute best for the company I work for. 
 
-9) I should be hired for this role because of my relevant skills, experience, 
+9) 
+//Agus
+i should be hired for this role because of my relevant skills and passion for the industry
+
+//Mati
+I should be hired for this role because of my relevant skills, experience, 
 and passion for the industry. I did research about the company and I trust I can add value to its growth.
 
 10) With my experience, skills, and certifications, I would expect to receive something
