@@ -45,10 +45,7 @@ related to accounting and software delepment planning.
 6) 
 
 //agus
-Last Year, i was requested the development of a custom system that would let 
-clients make orders form the mobile application, and send notification to 
-the owner to approve them, Analysed the processes and requirements, 
-and was able to deliver a product.
+My dream job would be to build strong relationships with my coworkers while working on .NET application development
 
 //mati
  Last year, I was requested the development of a custom system that would let
